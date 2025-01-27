@@ -6,3 +6,4 @@ print("FeatureX: Adding new functionality")
 
 x = x + 1
 x = x + 2
+z = z + 2
